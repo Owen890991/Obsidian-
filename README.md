@@ -46,3 +46,6 @@ FROM ""
 WHERE file.mday = date(today) 
 SORT file.mtime asc
 ```
+
+
+#日期格式：YYYY/MM-MMMM/YYYY-MM-DD-dddd
